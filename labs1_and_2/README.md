@@ -26,7 +26,7 @@ Objective of Labs 1 and 2 were to familiarize student with linux command line an
 ![nano file](screenshots/com13_nanofile.png) <br />
 
 **cat file** <br />
-![cat file](screenshots/com14_cat file.png) <br />
+![cat file](screenshots/com14_catfile.png) <br />
 
 **cp file file1, mv file file2, rm file2** (also used ls to see changes) <br />
 ![cp, mv, and rm](screenshots/com15_com17_cp_mv_rm.png) <br />
