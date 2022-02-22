@@ -22,3 +22,5 @@ Objective of Lab 3 was to install python and its libraries, then to run them in 
 ![batterypy](screenshots/com12batterypy.png) <br />
 **documentstats.py** <br />
 ![documentstatspy](screenshots/com13documentstatspy.png) <br />
+
+All finished!
