@@ -1,4 +1,4 @@
-# #Labs 1 and 2 - Command Line <br />
+# Labs 1 and 2 - Command Line <br />
 Objective of Labs 1 and 2 were to familiarize student with linux command line and the commands shown below. <br /> 
 
 **hostname** <br />
