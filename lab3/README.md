@@ -2,7 +2,7 @@
 
 Objective of Lab 3 was to install python and its libraries, then to run them in **WSL / Ubuntu** command line. 
 
-**cd ~/iot, cd *3, and julian.py** <br />
+**cd ~/iot, cd** ***3, and julian.py** <br />
 ![com1to3](screenshots/com1to3.png) <br />
 **date_example.py and datetime_example.py** <br />
 ![com4to5](screenshots/com4to5.png) <br />
