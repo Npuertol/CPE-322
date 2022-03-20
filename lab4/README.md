@@ -63,17 +63,10 @@ Purpose of Lab 4 was to install Django and Flask in order to run servers/virtual
 **View app at http://127.0.0.1:8000** <br/>
 ![app view](screenshots/lab4_10viewapp.png) <br />
 
-**** <br/>
-![](screenshots/) <br />
+**View mycpu app at http://127.0.0.1:8000** <br/>
+![mycpuhome](screenshots/lab4_2_8mycpuhome.png) <br />
 
-**** <br/>
-![](screenshots/) <br />
+**Run Flask server via hello_world.py and view app** <br/>
+![hello world flask](screenshots/lab4_3_1flaskhelloworld.png) <br />
 
-**** <br/>
-![](screenshots/) <br />
-
-**** <br/>
-![](screenshots/) <br />
-
-**** <br/>
-![](screenshots/) <br />
+Finished.
