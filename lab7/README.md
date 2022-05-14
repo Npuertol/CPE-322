@@ -17,6 +17,6 @@ The goal of Lab 7 was to use cloud platforms such as ThingSpeak and APIs such as
 ![rpi_spreadsheet.py](screenshots/lab7_B1_rpispreadsheet.png)
 
 **Displaying published results on Sheets**
-![rpispreadsheetresult](screenshots/lab7_B2_rpispreadsheet.png)
+![rpispreadsheetresult](screenshots/lab7_B2_rpispreadsheetresult.png)
 
 Lab 7 Finished
