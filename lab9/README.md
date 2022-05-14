@@ -1,4 +1,5 @@
 # Lesson 9: YANG
+Objective of this lab was to use YANG data modeling language and Python (pyang) to convert file into different formats (.yin, .uml, .png) then use Gimp and Pinta to view intrusiondetection.png
 
 **cat intrustiondetection.yang**
 ![catyang](screenshots/lab9_A1_catyang.png)
@@ -17,3 +18,5 @@
 
 **View .png using Gimp (gimp -a intrusiondetection.png)**
 ![gimppng](screenshots/lab9_A6_gimppng.png)
+
+Lab 9 Finished.
